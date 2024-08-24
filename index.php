@@ -6,7 +6,7 @@ $db=mysqli_select_db($connection,"ff");?>
 
 <html lang="en">
     <head>
-        <title>Sign up or Register</title>
+        <title>Sign up or Register  with  a diffss</title>
         <link rel="stylesheet" href="css/style.css">
     </head>
 
