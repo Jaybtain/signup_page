@@ -57,7 +57,7 @@ $db=mysqli_select_db($connection,"ff");?>
                         echo '<script type="text/javascript">alert("Registration Successful");</script>';
                     }
                     else{
-                        echo '<script type="text/javascript">alert("Registration Failed");</script>';
+                        echo '<script type="text/javascript">alert("Registrations Failed");</script>';
                     }
 
 
